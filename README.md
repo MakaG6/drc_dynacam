@@ -1,6 +1,6 @@
 # DRC DynaCam
 
-A custom dynamic cinematic chase camera built for DRILL CITY RP.
+A custom dynamic cinematic chase camera built for RP.
 Inspired by Assetto Corsa's DynaCam mod — adds motion, speed sensation,
 and impact feedback to GTA V's default chase camera.
 
